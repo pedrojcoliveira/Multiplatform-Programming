@@ -1,0 +1,24 @@
+﻿<Window x:Class="Aula05.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aula05"
+        mc:Ignorable="d"
+        Title="Lista de Figuras" Height="431" Width="793">
+    <Grid>
+        <Menu Margin="0,0,0,342">
+            <MenuItem Header="Figuras" FontSize="18" FontWeight="Bold">
+                <MenuItem Header="Adicionar" Click="FigurasAdicionar_Click"/>
+                <MenuItem Header="Sair"/>
+            </MenuItem>
+        </Menu>
+        <TextBlock HorizontalAlignment="Left" Margin="31,127,0,0" TextWrapping="Wrap" Text="Figuras" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <ListBox x:Name="lbFiguras" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,151,660,142" SelectionChanged="lbFiguras_SelectionChanged"/>
+        <StatusBar Margin="0,343,0,0">
+            <StatusBarItem x:Name="sbiFiguras" Content="Largura = ?  Altura = ?" Height="72" VerticalAlignment="Center"/>
+        </StatusBar>
+
+
+    </Grid>
+</Window>
