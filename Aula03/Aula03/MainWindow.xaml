@@ -1,0 +1,40 @@
+﻿<Window x:Class="Aula03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aula03"
+        mc:Ignorable="d"
+        Title="Somar Números" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="FV" Content="First Value" HorizontalAlignment="Left" Margin="27,50,0,0" VerticalAlignment="Top" Height="39"  Width="100"  FontSize="16" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" />
+        <Label x:Name="SV" Content="Second Value" HorizontalAlignment="Left" Margin="27,107,0,0" VerticalAlignment="Top" Height="39"  Width="120" FontSize="16" FontFamily="Arial" FontWeight="Bold" FontStyle="Normal" />
+        <Button Click="AddButton" x:Name="Add" Content="Add" Margin="223,247,428,134" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform />
+                    <RotateTransform Angle="-0.081" />
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="Result" Content="Result" HorizontalAlignment="Left" Margin="27,165,0,0" VerticalAlignment="Top" Height="39" Width="97" FontSize="16" FontFamily="Arial" FontWeight="Bold"/>
+        <TextBox x:Name="FVBox" Margin="160,50,438,345"/>
+        <TextBox x:Name="SVBox" Margin="160,107,438,288"/>
+        <TextBox IsReadOnly="True" x:Name="ResultBox" Margin="161,167,436,228" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.238"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Button HorizontalAlignment="Left" Margin="27,246,0,0" VerticalAlignment="Top" Width="154" Height="54" Click="Button_Click">
+            <Button Content="Button"/>
+        </Button>
+        <ComboBox HorizontalAlignment="Left" Margin="525,54,0,0" VerticalAlignment="Top" Width="120" Height="39" SelectionChanged="ComboBox_SelectionChanged"/>
+
+    </Grid>
+</Window>
