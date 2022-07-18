@@ -1,0 +1,21 @@
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\bin\Debug\net6.0-windows\Aula 09.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\bin\Debug\net6.0-windows\Aula 09.deps.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\bin\Debug\net6.0-windows\Aula 09.runtimeconfig.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\bin\Debug\net6.0-windows\Aula 09.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\bin\Debug\net6.0-windows\Aula 09.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\Aula 09.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\Aula 09_MarkupCompile.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\Aula 09_MarkupCompile.lref
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\Aula 09.g.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\Aula 09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\Aula 09.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\Aula 09.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\Aula 09.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\Aula 09.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\ref\Aula 09.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\Aula 09.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\Aula 09.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\Programação Multiplataforna\Aula 09\Aula 09\obj\Debug\net6.0-windows\refint\Aula 09.dll
